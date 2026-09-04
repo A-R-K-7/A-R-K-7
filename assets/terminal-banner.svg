@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 320" width="860" height="320" role="img" aria-label="Akshay Reddy - Terminal Profile Banner">
+  <defs>
+    <style>
+      .bg { fill: #0D1117; }
+      .titlebar { fill: #161B22; }
+      .border { fill: none; stroke: #30363D; stroke-width: 1; }
+      .dot-r { fill: #FF5F56; }
+      .dot-y { fill: #FFBD2E; }
+      .dot-g { fill: #27C93F; }
+      .title-txt { fill: #6E7681; font-family: 'Courier New', Courier, monospace; font-size: 12px; }
+      .prompt { fill: #7EE787; font-family: 'Courier New', Courier, monospace; font-size: 14px; font-weight: bold; }
+      .name-txt { fill: #F0F6FC; font-family: 'Courier New', Courier, monospace; font-size: 28px; font-weight: bold; letter-spacing: 4px; }
+      .role-txt { fill: #58A6FF; font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+      .status-txt { fill: #7EE787; font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+      .muted { fill: #6E7681; font-family: 'Courier New', Courier, monospace; font-size: 12px; }
+      .cursor { fill: #7EE787; }
+      .output-txt { fill: #8B949E; font-family: 'Courier New', Courier, monospace; font-size: 12px; }
+      .divider { stroke: #21262D; stroke-width: 1; }
+      .l1 { opacity: 0; animation: fadeIn 0.2s 0.5s forwards; }
+      .l2 { opacity: 0; animation: fadeIn 0.2s 1.2s forwards; }
+      .l3 { opacity: 0; animation: fadeIn 0.2s 1.9s forwards; }
+      .l4 { opacity: 0; animation: fadeIn 0.2s 2.5s forwards; }
+      .l5 { opacity: 0; animation: fadeIn 0.2s 3.0s forwards; }
+      .l6 { opacity: 0; animation: fadeIn 0.2s 3.5s forwards; }
+      .l7 { opacity: 0; animation: fadeIn 0.2s 3.7s forwards; }
+      .l8 { opacity: 0; animation: fadeIn 0.2s 3.9s forwards; }
+      .l9 { opacity: 0; animation: fadeIn 0.2s 4.1s forwards; }
+      .l10 { opacity: 0; animation: fadeIn 0.2s 4.6s forwards; }
+      .blink { animation: blink 1s step-end infinite; }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(2px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50%       { opacity: 0; }
+      }
+    </style>
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#7EE787"/>
+      <stop offset="100%" stop-color="#39D353"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="859" height="319" rx="8" ry="8" class="bg"/>
+  <rect x="0.5" y="0.5" width="859" height="319" rx="8" ry="8" class="border"/>
+  <rect x="1" y="1" width="858" height="36" rx="7" ry="7" class="titlebar"/>
+  <rect x="1" y="28" width="858" height="9" class="titlebar"/>
+  <circle cx="24" cy="19" r="6" class="dot-r"/>
+  <circle cx="44" cy="19" r="6" class="dot-y"/>
+  <circle cx="64" cy="19" r="6" class="dot-g"/>
+  <text x="430" y="23" text-anchor="middle" class="title-txt">akshay@github: ~/A-R-K-7</text>
+  <line x1="1" y1="37" x2="859" y2="37" class="divider"/>
+  <g class="l1">
+    <text x="28" y="72" class="prompt">$</text>
+    <text x="44" y="72" class="status-txt">whoami</text>
+  </g>
+  <g class="l2">
+    <text x="28" y="112" class="name-txt" filter="url(#glow)">AKSHAY REDDY</text>
+  </g>
+  <g class="l3">
+    <text x="28" y="138">
+      <tspan class="muted">&gt;</tspan>
+      <tspan class="role-txt" dx="6">AI Systems  |  Machine Learning  |  Backend  |  Quant Engineering</tspan>
+    </text>
+  </g>
+  <g class="l4">
+    <text x="28" y="162" class="muted">&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;&#x2500;</text>
+  </g>
+  <g class="l5">
+    <text x="28" y="186" class="prompt">$</text>
+    <text x="44" y="186" class="status-txt">./build_future.sh</text>
+  </g>
+  <g class="l6">
+    <text x="44" y="206" class="output-txt">[  OK  ] Loaded: ai_systems :: ml_pipeline :: backend_infra :: quant_engine</text>
+  </g>
+  <g class="l7">
+    <text x="44" y="222" class="output-txt">[  OK  ] Services: NexusML :: TradeSphere :: DevFlow :: StockML :: BehaviouralCompanion</text>
+  </g>
+  <g class="l8">
+    <text x="44" y="238" class="output-txt">[  OK  ] Stack: Python :: Java :: JavaScript :: TypeScript :: React :: FastAPI :: Spring Boot :: Docker</text>
+  </g>
+  <g class="l10">
+    <rect x="28" y="262" width="804" height="32" rx="4" fill="#161B22"/>
+    <rect x="28" y="262" width="804" height="32" rx="4" fill="none" stroke="#21262D" stroke-width="1"/>
+    <text x="44" y="283" class="prompt">&#x25CF;</text>
+    <text x="60" y="283" class="status-txt">SYSTEM STATUS:</text>
+    <text x="172" y="283" fill="#F0F6FC" font-family="'Courier New', Courier, monospace" font-size="13px" font-weight="bold">ONLINE</text>
+    <rect x="248" y="273" width="160" height="8" rx="4" fill="#21262D"/>
+    <rect x="248" y="273" width="0" height="8" rx="4" fill="url(#barGrad)">
+      <animate attributeName="width" from="0" to="160" dur="0.8s" begin="4.6s" fill="freeze"/>
+    </rect>
+    <rect x="430" y="272" width="8" height="12" rx="1" class="cursor blink"/>
+  </g>
+</svg>

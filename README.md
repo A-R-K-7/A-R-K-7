@@ -74,137 +74,56 @@ LOCATION : India
 
 ## `$ ./projects --featured`
 
-<br/>
+<table>
+<tr>
+<td width="50%" align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  NEXUSML                                          [MLOps · AI]   │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  AI Governance & MLOps Platform                                  │
-│                                                                  │
-│  $ ./nexusml --status                                            │
-│                                                                  │
-│  ML Lifecycle    →  End-to-end model management                 │
-│  Model Registry  →  Versioning & experiment tracking            │
-│  Deployment      →  Automated model serving                     │
-│  Governance      →  Monitoring & observability                  │
-│                                                                  │
-│  STACK: Python · FastAPI · React · Node.js · MongoDB · Docker   │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-**→ [github.com/A-R-K-7/NexusML](https://github.com/A-R-K-7/NexusML)**
+<a href="https://github.com/A-R-K-7/NexusML">
+<img src="./assets/card-nexusml.svg" width="100%" alt="NexusML — AI Governance and MLOps Platform"/>
+</a>
 
-<br/>
+</td>
+<td width="50%" align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  TRADESPHERE                              [FinTech · Backend]    │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  Financial Portfolio & Trading Simulation Platform               │
-│                                                                  │
-│  $ ./tradesphere --status                                        │
-│                                                                  │
-│  Portfolio Mgmt  →  Real-time position tracking                 │
-│  Market Data     →  Live analytics & charting                   │
-│  Trading Engine  →  Simulation & execution logic                │
-│  Backend         →  REST APIs & data persistence                │
-│                                                                  │
-│  STACK: Java · Spring Boot · React · JavaScript                 │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-**→ [github.com/A-R-K-7/TradeSphere](https://github.com/A-R-K-7/TradeSphere)**
+<a href="https://github.com/A-R-K-7/TradeSphere">
+<img src="./assets/card-tradesphere.svg" width="100%" alt="TradeSphere — Financial Portfolio and Trading Platform"/>
+</a>
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  DEVFLOW                                [CI/CD · Full-Stack]    │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  Developer Operations & Deployment Tracking Dashboard           │
-│                                                                  │
-│  $ ./devflow --status                                            │
-│                                                                  │
-│  Deployments     →  Environment & release tracking              │
-│  Real-Time       →  WebSocket-powered live status               │
-│  CI/CD           →  Pipeline visibility & management            │
-│  Backend         →  Spring Boot service layer                   │
-│                                                                  │
-│  STACK: Java · Spring Boot · React · WebSockets · Docker        │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-**→ [github.com/A-R-K-7/DevFlow](https://github.com/A-R-K-7/DevFlow)**
+<a href="https://github.com/A-R-K-7/DevFlow">
+<img src="./assets/card-devflow.svg" width="100%" alt="DevFlow — Developer Operations and Deployment Dashboard"/>
+</a>
 
-<br/>
+</td>
+<td width="50%" align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  STOCKML                              [Quant · ML · Research]   │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  Quantitative Trading Research — ML-Driven Strategy Analysis    │
-│                                                                  │
-│  $ ./stockml --status                                            │
-│                                                                  │
-│  Models          →  LSTM · time-series forecasting              │
-│  Backtesting     →  Fixed vs dynamic stop-loss comparison       │
-│  Risk Mgmt       →  Position sizing & drawdown analysis         │
-│  Data Pipeline   →  Market data ingestion & feature eng.        │
-│                                                                  │
-│  STACK: Python · TensorFlow · Pandas · NumPy · Matplotlib       │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-**→ [github.com/A-R-K-7/StockML](https://github.com/A-R-K-7/StockML)**
+<a href="https://github.com/A-R-K-7/StockML">
+<img src="./assets/card-stockml.svg" width="100%" alt="StockML — Quantitative Trading Research and ML Strategy"/>
+</a>
 
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  BEHAVIOURALCOMPANION                    [AI · Multi-Platform]  │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  Multi-Platform Emotional Intelligence & Behavioral Analysis    │
-│                                                                  │
-│  $ ./behaviouralcompanion --status                               │
-│                                                                  │
-│  Analysis        →  Behavioral & emotional pattern detection    │
-│  Mobile          →  Flutter cross-platform client               │
-│  Web             →  React frontend                              │
-│  Backend         →  Spring Boot API layer                       │
-│  ML              →  TensorFlow / PyTorch inference              │
-│                                                                  │
-│  STACK: Java · Spring Boot · Flutter · React · TF · PyTorch     │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-**→ [github.com/A-R-K-7/BehaviouralCompanion](https://github.com/A-R-K-7/BehaviouralCompanion)**
+<a href="https://github.com/A-R-K-7/BehaviouralCompanion">
+<img src="./assets/card-behaviouralcompanion.svg" width="100%" alt="BehaviouralCompanion — Multi-Platform Emotional AI"/>
+</a>
 
-<br/>
+</td>
+<td width="50%" align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  FLATTRADEWEB — SELL AUTOMATION           [Trading · Python]    │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  Automated Sell-Side Trading System via FlatTrade API           │
-│                                                                  │
-│  $ ./flattradeweb --status                                       │
-│                                                                  │
-│  Automation      →  Programmatic sell order execution           │
-│  API Integration →  FlatTrade brokerage API connectivity        │
-│  Web Interface   →  Flask-based control dashboard               │
-│                                                                  │
-│  STACK: Python · Flask · REST APIs                              │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-**→ [github.com/A-R-K-7/FlatTradeWeb-With-Sell-Automation](https://github.com/A-R-K-7/FlatTradeWeb-With-Sell-Automation)**
+<a href="https://github.com/A-R-K-7/FlatTradeWeb-With-Sell-Automation">
+<img src="./assets/card-flattradeweb.svg" width="100%" alt="FlatTradeWeb — Automated Sell-Side Trading System"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -278,18 +197,6 @@ x9y0z1a  voice AI assistant — QuantaNova
 ```
 
 > *Visual representation of engineering direction — not literal git history.*
-
----
-
-## `$ cat contribution_graph.txt`
-
-<div align="center">
-
-<img src="./assets/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
-
-</div>
-
-> *Animation generated automatically via GitHub Actions. If not visible yet, run the [snake workflow](https://github.com/A-R-K-7/A-R-K-7/actions/workflows/snake.yml) manually once after setup.*
 
 ---
 

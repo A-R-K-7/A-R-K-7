@@ -166,23 +166,7 @@ LOCATION : India
 
 ---
 
-## `$ ./github_stats`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=A-R-K-7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=8B949E&icon_color=58A6FF&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-R-K-7&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=7EE787&text_color=8B949E&langs_count=8" height="165" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-R-K-7&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7EE787&fire=58A6FF&currStreakLabel=7EE787" alt="GitHub Streak" height="165"/>
-
-</div>
-
----
 
 ## `$ git log --oneline`
 
